@@ -1,4 +1,4 @@
-![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)
+![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg|width=150)
 # Praktikum-Pengantar-Teknologi-Informasi-Modul-2-HTML
 Praktimum Pengantar Teknologi Informasi yakni dengan materi ModuHTML (Hyper Text Markup Language)
 
