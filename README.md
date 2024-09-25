@@ -15,8 +15,8 @@ Dalam praktikum ini dibahas beberapa materi diantaranya adalah:
  - 3.2 - List (Unorder List).html
  - 3.3 - List (Definition List).html
  - 4 - Hyperlink.html 5 - Image.html
- - 6 - Table Excercise.html
  - 6 - Table.html
+ - 6.1 - Table Excercise.html
 
 Serta modul pembelajarannya:
 
